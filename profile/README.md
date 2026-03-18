@@ -86,9 +86,9 @@ Contribute your machine’s idle compute power to the Clustr network.
 
 | Platform | Installer | Format |
 |----------|--------|--------|
-| **macOS (Intel & Apple Silicon)** | [Download](../bin/Clustr-1.0.0.dmg) | `.dmg` |
-| **Windows (x64)** | [Download](../bin/Clustr-1.0.0.msi) | `.msi` |
-| **Linux (Debian/Ubuntu)** | [Download](../bin/clustr_1.0.0_amd64.deb) | `.deb` |
+| **macOS (Intel & Apple Silicon)** | [Download](../bin/Clustr-1.0.0.dmg?raw=true) | `.dmg` |
+| **Windows (x64)** | [Download](../bin/Clustr-1.0.0.msi?raw=true) | `.msi` |
+| **Linux (Debian/Ubuntu)** | [Download](../bin/clustr_1.0.0_amd64.deb?raw=true) | `.deb` |
 
 ---
 
